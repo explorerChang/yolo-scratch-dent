@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+deeplearning/
+
+# 权重、数据集
+weights/
+datasets/
+*.pt
+*.bin
+*.safetensors
+
+# 训练输出日志
+runs/
+logs/
+
+.ipynb_checkpoints/

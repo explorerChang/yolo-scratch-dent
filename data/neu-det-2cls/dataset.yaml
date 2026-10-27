@@ -1,0 +1,8 @@
+# 由 src/data_prep/build_neu_yolo_dataset.py 自动生成
+path: D:/yolo-scratch-dent/data/neu-det-2cls
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: scratch
+  1: dent
